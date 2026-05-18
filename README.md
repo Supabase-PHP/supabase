@@ -1,4 +1,7 @@
 ![Logo](https://raw.githubusercontent.com/Supabase-PHP/.github/refs/heads/main/profile/art/logo.png)
+
+![PHP](https://img.shields.io/badge/PHP-8.3%2B-656BB4?style=for-the-badge&logo=php")
+![Supabase]()
 ![Packagist Version](https://img.shields.io/packagist/v/supabase-php/laravel?style=flat&logo=composer&logoColor=%23fff)
 ![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/supabase-php/laravel/php?style=flat&logo=php&logoColor=blue&label=PHP&color=blue)
 ![Packagist License](https://img.shields.io/packagist/l/supabase-php/laravel?style=flat&label=License&color=blue)
