@@ -1,14 +1,12 @@
 ![Logo](https://raw.githubusercontent.com/Supabase-PHP/.github/refs/heads/main/profile/art/logo.png)
 
 ![PHP](https://img.shields.io/badge/PHP-8.3%2B-656BB4?style=for-the-badge&logo=php")
-![Supabase]()
-![Packagist Version](https://img.shields.io/packagist/v/supabase-php/laravel?style=flat&logo=composer&logoColor=%23fff)
-![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/supabase-php/laravel/php?style=flat&logo=php&logoColor=blue&label=PHP&color=blue)
-![Packagist License](https://img.shields.io/packagist/l/supabase-php/laravel?style=flat&label=License&color=blue)
-![Packagist Downloads](https://img.shields.io/packagist/dt/supabase-php/laravel?style=flat&logo=packagist&label=Downloads&color=blue)
-![Packagist Stars](https://img.shields.io/packagist/stars/supabase-php/laravel?style=flat&logo=github&logoColor=%23ffffff&label=%F0%9F%8C%9F%20Stars)
+![Supabase](https://img.shields.io/badge/Supabase-PHP-3ECF8E?style=for-the-badge&logo=supabase)
+![Latest Version](https://img.shields.io/packagist/v/supabase-php/supabase.svg?style=for-the-badge&logo=packagist)
+![Total Downloads](https://img.shields.io/packagist/dt/supabase-php/supabase.svg?style=for-the-badge&logo=composer)
+[![License](https://img.shields.io/packagist/l/supabase-php/supabase.svg?style=for-the-badge&logo=github)](LICENSE)
 
-Modern modular Supabase SDK for PHP powered by independent packages.
+Modern, Fluent, Lightweight and modular Supabase SDK for PHP ecosystem. Powered by independent packages.
 
 ---
 
