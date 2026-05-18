@@ -1,4 +1,4 @@
-![Logo](.github/art/logo.png)
+![Logo](https://raw.githubusercontent.com/Supabase-PHP/.github/refs/heads/main/profile/art/logo.png)
 Modern modular Supabase SDK for PHP powered by independent packages.
 
 ---
