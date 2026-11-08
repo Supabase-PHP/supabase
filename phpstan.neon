@@ -1,0 +1,28 @@
+parameters:
+    # PHPStan
+    level: max
+
+    # PHP compatibility
+    phpVersion: 80400
+
+    # Analyse directories
+    paths:
+        - src
+        - tests
+
+    # Type Coverage
+    type_coverage:
+        # Native type declarations
+        return: 100
+        param: 100
+        property: 100
+        constant: 100
+
+    # Type Perfect rules
+    type_perfect:
+        no_param_type_removal: true
+        no_isset_on_object: true
+        no_empty_on_object: true
+
+    # Report unmatched ignored errors
+    reportUnmatchedIgnoredErrors: true
