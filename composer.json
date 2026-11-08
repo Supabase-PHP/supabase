@@ -9,14 +9,16 @@
     ],
     "type": "library",
     "require": {
-        "php": "^8.4"
+        "php": "^8.4",
+        "ext-curl": "*",
+        "ext-json": "*"
     },
     "require-dev": {
         "laravel/pint": "^1.32",
         "phpstan/extension-installer": "^1.4",
-        "phpstan/phpstan": "^2.2",
-        "phpunit/phpunit": "^11.5",
-        "tomasvotruba/type-coverage": "^2.3"
+        "phpstan/phpstan": "^2.3",
+        "phpunit/phpunit": "^13.4",
+        "tomasvotruba/type-coverage": "^2.5"
     },
     "license": "MIT",
     "autoload": {
@@ -30,19 +32,14 @@
         }
     },
     "support": {
-        "source": "https://github.com/CodeWithSushil/supabase-client/releases",
-        "issues": "https://github.com/CodeWithSushil/supabase-client/issues"
+        "source": "https://github.com/Supabase-PHP/supabase/releases",
+        "issues": "https://github.com/Supabase-PHP/supabase/issues"
     },
     "authors": [
         {
             "name": "Sushil Kumar",
             "email": "sushilkumbhar77@gmail.com",
             "role": "Developer"
-        },
-        {
-          "name": "Ashish Kumbhar",
-          "email": "ashishkumbhar01@hotmail.com",
-          "role": "Developer"
         }
     ],
     "funding": [
