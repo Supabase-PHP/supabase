@@ -1,10 +1,29 @@
 ![Supabase](https://raw.githubusercontent.com/Supabase-PHP/.github/refs/heads/main/profile/art/logo.png)
 
+> [!WARNING]
+> We sincerely apologize for the inconvenience.
+>
+> The previous Supabase PHP SDK repository has been deleted, and its old package listing has been removed from Packagist as part of our ongoing development and restructuring.
+>
+> We are actively working on a new and improved version with better architecture, performance, security, and developer experience.
+>
+> If you are currently using the previous SDK, please be aware that it is no longer maintained.
+>
+> Thank you for your patience, support, and understanding.
+>
+> — Sushil Kumar
+>
+
+<!--
+![Supabase](https://raw.githubusercontent.com/Supabase-PHP/.github/refs/heads/main/profile/art/logo.png)
+
 ![Packagist Downloads](https://img.shields.io/packagist/dt/supabase-php/supabase-client?style=for-the-badge&logo=composer)
 ![GitHub Release](https://img.shields.io/github/v/release/Ashishkumbhar01/supabase-php?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/Ashishkumbhar01/supabase-php?style=for-the-badge)
 ![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/supabase-php/supabase-client/php?style=for-the-badge)
 
+## Message
+> We are Sorry because
 
 Supabase  client for PHP:
 - Realtime database, Storage, Authentication and many more.
