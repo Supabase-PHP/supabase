@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Supabase\Client;
+namespace Supabase\Http;
 
-final class Supabase
+final class Response
 {
     public function __construct()
     {

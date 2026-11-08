@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Supabase\Client;
+namespace Supabase;
 
 final class Client
 {

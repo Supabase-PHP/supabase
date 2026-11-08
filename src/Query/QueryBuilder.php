@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Supabase\Client\Query;
+namespace Supabase\Query;
 
 final class QueryBuilder
 {

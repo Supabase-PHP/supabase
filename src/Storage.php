@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Supabase\Client;
+namespace Supabase;
 
-final class Config
+final class Storage
 {
     public function __construct()
     {

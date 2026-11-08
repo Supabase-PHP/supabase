@@ -52,16 +52,7 @@
             "url": "https://github.com/sponsors/CodeWithSushil"
         }
     ],
-    "replace": {
-        "supabase-php/supabase": "self.version"
-    },
-    "suggest": {
-        "ext-curl": "Required by Guzzle for optimal, high-performance HTTP requests.",
-        "ext-json": "Required for processing JSON payloads from Supabase API responses."
-    },
     "config": {
-        "optimize-autoloader": true,
-        "sort-packages": true,
         "preferred-install": "dist",
         "allow-plugins": {
             "phpstan/extension-installer": true

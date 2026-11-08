@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Supabase\Client;
+namespace Supabase;
 
-final class Auth
+final class Config
 {
     public function __construct()
     {
